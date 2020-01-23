@@ -1,0 +1,17 @@
+plugins/modules/hcloud_network_info.py validate-modules:return-syntax-error
+plugins/doc_fragments/hcloud.py future-import-boilerplate
+plugins/doc_fragments/hcloud.py metaclass-boilerplate
+plugins/doc_fragments/hetzner.py future-import-boilerplate
+plugins/doc_fragments/hetzner.py metaclass-boilerplate
+tests/unit/mock/path.py future-import-boilerplate
+tests/unit/mock/path.py metaclass-boilerplate
+tests/unit/mock/yaml_helper.py future-import-boilerplate
+tests/unit/mock/yaml_helper.py metaclass-boilerplate
+tests/unit/module_utils/conftest.py future-import-boilerplate
+tests/unit/module_utils/conftest.py metaclass-boilerplate
+tests/unit/module_utils/test_hetzner.py future-import-boilerplate
+tests/unit/module_utils/test_hetzner.py metaclass-boilerplate
+tests/unit/modules/conftest.py future-import-boilerplate
+tests/unit/modules/conftest.py metaclass-boilerplate
+tests/unit/modules/utils.py future-import-boilerplate
+tests/unit/modules/utils.py metaclass-boilerplate
